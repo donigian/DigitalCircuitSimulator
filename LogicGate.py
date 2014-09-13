@@ -125,6 +125,6 @@ def main():
    c1 = Connector(g1,g3)
    c2 = Connector(g2,g3)
    c3 = Connector(g3,g4)
-   print(g4.getOutput())
+   print(g4.getOutput()) 
 
 main()
