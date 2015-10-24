@@ -1,17 +1,3 @@
-#Possible TO-DO:
-#   Improve style
-#   Add documentation
-#   Enforce OOP principles
-#       (seperate input/output from the concept
-#               in the classes)
-#   Break up into smaller files (test file, gates library, board)
-#   Implement a CircuitBoard class
-#   Do correct exception handling
-#   Allow more inputs for non-unary gates
-#   Implement program that allows users to construct their
-#       own circuits from scratch
-#   Implement basic GUI
-
 class CircuitBoard: #TO-DO
     #The purpose of this class is to have a place
     #where we can put all the gates and connectors
